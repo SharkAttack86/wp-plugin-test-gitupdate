@@ -3,7 +3,7 @@
  * Plugin Name:       WP Plugin Test Gitupdate
  * Plugin URI:        https://example.com/plugins/the-basics/
  * Description:       Handle the basics with this plugin.
- * Version:           1.4
+ * Version:           1.4.6
  * Requires at least: 5.2
  * Requires PHP:      7.2
  * Author:            Daniele Pani
