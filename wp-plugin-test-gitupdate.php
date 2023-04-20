@@ -11,4 +11,6 @@
  * License URI:       https://www.gnu.org/licenses/gpl-2.0.html
  * Update URI:        https://example.com/plugins/the-basics/
  * Domain Path:       /languages
+ * GitHub Plugin URI: SharkAttack86/wp-plugin-test-gitupdate
+ * GitHub Plugin URI: https://github.com/SharkAttack86/wp-plugin-test-gitupdate
  */
